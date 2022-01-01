@@ -1,1 +1,1 @@
-- [Obsidian](Obsidian.md)
+- [2022年の抱負](2022年の抱負.md)
