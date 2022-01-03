@@ -1,5 +1,5 @@
 ## Githubに引っ越しました。
-毎日何かしらを書いてTwitterで知らせていきます。
+毎日何かしらを書いて[Twitter](https://twitter.com/hnymht)で知らせていきます。
 
 - [2022年の抱負](2022年の抱負.md)
 - [2022年01月1日](dailynote/20220101.md)
